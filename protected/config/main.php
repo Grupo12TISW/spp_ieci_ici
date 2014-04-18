@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'My Web Application',
+	'name'=>'Sistema de Apoyo a Prácticas Profesionales',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -130,8 +130,8 @@ return array(
 		'db'=>array(
 			'connectionString' => 'mysql:host=localhost;dbname=SPP_GRUPO12',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => 'root',
+			'username' => 'grupo12',
+			'password' => 'face2014',
 			'charset' => 'utf8',
 		),
 		
