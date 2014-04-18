@@ -1,0 +1,9 @@
+2014/04/18 08:05:16 [error] [application] UiController
+CrugeUser->validate es false
+<div class="errorSummary"><p>Please fix the following input errors:</p>
+<ul>
+<li>Password: cannot be blank.</li>
+<li>clave invalida</li>
+</ul></div>
+in /Applications/MAMP/htdocs/spp_ieci_ici/protected/modules/cruge/controllers/UiController.php (158)
+in /Applications/MAMP/htdocs/spp_ieci_ici/index.php (13)
